@@ -1,0 +1,1 @@
+INSERT INTO aluno (nome, salario, nascimento) VALUES ('Beltrano', 234.56, '2000-12-31');
